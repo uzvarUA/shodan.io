@@ -1,0 +1,134 @@
+SCANNING EXECUTED ON:
+Date: 16/08/2025 11:09:48
+IP: 104.18.13.238
+NATION: Canada
+NATION-CODE: CA
+REGION-CODE: ON
+REGION-NAME: Ontario
+CITY: Toronto
+TIMEZONE: America/Toronto
+ISP: Cloudflare, Inc.
+ORG: Cloudflare, Inc.
+AS: AS13335 Cloudflare, Inc.
+LAT: 43.6532
+LONG: -79.3832
+ZIP/POSTAL-CODE: M5A
+--------------------------------
+SHOWING TWITTER RESULTS FOR: shodan.io
+--------------------------------
+SHOWING TWITTER RESULTS FOR: shodan
+--------------------------------
+SHOWING TIKTOK RESULTS FOR: shodan.io
+--------------------------------
+SHOWING TIKTOK RESULTS FOR: shodan
+
+USER FOUND: @1tshodan_
+FOLLOWERS: 3.73K followers
+
+LINK: https://tiktok.com/@1tshodan_
+
+USER FOUND: @shodan.ao
+FOLLOWERS: 4.56K followers
+
+LINK: https://tiktok.com/@shodan.ao
+--------------------------------
+SHOWING GITHUB RESULTS FOR: shodan.io
+
+USER FOUND: shodanio
+PROFILE-PIC: https://avatars.githubusercontent.com/u/60478521?v=4
+LINK: https://github.com/shodanio
+
+USER FOUND: markich
+PROFILE-PIC: https://avatars.githubusercontent.com/u/1414106?v=4
+LINK: https://github.com/markich
+--------------------------------
+SHOWING GITHUB RESULTS FOR: shodan
+
+USER FOUND: SHODAN
+PROFILE-PIC: https://avatars.githubusercontent.com/u/183662?v=4
+LINK: https://github.com/SHODAN
+
+USER FOUND: shodanio
+PROFILE-PIC: https://avatars.githubusercontent.com/u/60478521?v=4
+LINK: https://github.com/shodanio
+
+USER FOUND: shodanium
+PROFILE-PIC: https://avatars.githubusercontent.com/u/340783?v=4
+LINK: https://github.com/shodanium
+
+USER FOUND: shodanuk
+PROFILE-PIC: https://avatars.githubusercontent.com/u/132754?v=4
+LINK: https://github.com/shodanuk
+
+USER FOUND: shodan-labs
+PROFILE-PIC: https://avatars.githubusercontent.com/u/9043200?v=4
+LINK: https://github.com/shodan-labs
+
+USER FOUND: Viss
+PROFILE-PIC: https://avatars.githubusercontent.com/u/1756255?v=4
+LINK: https://github.com/Viss
+
+USER FOUND: shodanx
+PROFILE-PIC: https://avatars.githubusercontent.com/u/5825560?v=4
+LINK: https://github.com/shodanx
+
+USER FOUND: thaleshodan
+PROFILE-PIC: https://avatars.githubusercontent.com/u/173853965?v=4
+LINK: https://github.com/thaleshodan
+
+USER FOUND: ShodanMaster
+PROFILE-PIC: https://avatars.githubusercontent.com/u/162586541?v=4
+LINK: https://github.com/ShodanMaster
+
+USER FOUND: shodanwashere
+PROFILE-PIC: https://avatars.githubusercontent.com/u/74769749?v=4
+LINK: https://github.com/shodanwashere
+
+USER FOUND: ShodanXII
+PROFILE-PIC: https://avatars.githubusercontent.com/u/156700077?v=4
+LINK: https://github.com/ShodanXII
+
+USER FOUND: shodanshok
+PROFILE-PIC: https://avatars.githubusercontent.com/u/13137622?v=4
+LINK: https://github.com/shodanshok
+
+USER FOUND: shodansploit
+PROFILE-PIC: https://avatars.githubusercontent.com/u/54152149?v=4
+LINK: https://github.com/shodansploit
+
+USER FOUND: shodankim
+PROFILE-PIC: https://avatars.githubusercontent.com/u/66750905?v=4
+LINK: https://github.com/shodankim
+
+USER FOUND: bakastrumpf
+PROFILE-PIC: https://avatars.githubusercontent.com/u/78704076?v=4
+LINK: https://github.com/bakastrumpf
+
+USER FOUND: shodancode
+PROFILE-PIC: https://avatars.githubusercontent.com/u/7539888?v=4
+LINK: https://github.com/shodancode
+
+USER FOUND: shodan11
+PROFILE-PIC: https://avatars.githubusercontent.com/u/4878403?v=4
+LINK: https://github.com/shodan11
+
+USER FOUND: shodan-ssh
+PROFILE-PIC: https://avatars.githubusercontent.com/u/33551482?v=4
+LINK: https://github.com/shodan-ssh
+
+USER FOUND: markich
+PROFILE-PIC: https://avatars.githubusercontent.com/u/1414106?v=4
+LINK: https://github.com/markich
+
+USER FOUND: luvrei
+PROFILE-PIC: https://avatars.githubusercontent.com/u/5036494?v=4
+LINK: https://github.com/luvrei
+
+OPEN PORTS:
+Port: 80
+Port: 443
+
+
+TRACEROUTE SEQUENCE:
+
+SCANNING EXECUTED WITH Mr.Holmes
